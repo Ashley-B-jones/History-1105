@@ -1,5 +1,5 @@
 ---
-title: "Title of HIS 1105 project"
+title: "Woo Dak San"
 author: Your name
 layout: scrollstory
 header-image: images/Raton_1882.jpg
