@@ -2,8 +2,8 @@
 title: "Woo Dak San"
 author: Ashley Barondyck
 layout: scrollstory
-header-image: images/Woo Header_1.png
-thumbnail: images/Woo Header_1.png
+header-image: images/image.png
+thumbnail: images/image.png
 summary: One sentence summary of your project 
 ---
 
