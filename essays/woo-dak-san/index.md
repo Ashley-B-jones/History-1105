@@ -1,9 +1,9 @@
 ---
 title: "Woo Dak San"
-author: Your name
+author: Ashley Barondyck
 layout: scrollstory
-header-image: images/Raton_1882.jpg
-thumbnail: images/Raton_1882.jpg
+header-image: images/Woo headder_1.png
+thumbnail: images/Woo headder_1.png
 summary: One sentence summary of your project 
 ---
 
@@ -23,7 +23,7 @@ Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT)
   image-path="images/Raton_let_the_boycotters_kill_them.jpg"
   image-position="right"
   image-width="50%"
-  caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese.[Source: Sierra County Advocate](January 23, 1886, 2.)"
+  caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese.[Source: Sierra County Advocate January 23, 1886, 2.] "
 %}
 
 {% include typography/pullquote.html text="\"It is a shame for the people of Raton to 'protect' the Chinese. They ought to stand aside and let the boycotters kill them...\""%}
@@ -44,7 +44,7 @@ The coding for this section positions this text in relation to the image. *The L
   image-path="images/Concerns_Raton.jpg"
   image-position="left"
   image-width="70%"
-  caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette] (Month day, year, page number.)"
+  caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette (Month day, year, page number.)] (web page link)"
   text=Removal_Chinese_text 
 %}
 
