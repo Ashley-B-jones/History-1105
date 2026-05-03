@@ -4,14 +4,14 @@ author: Ashley Barondyck
 layout: scrollstory
 header-image: images/image.png
 thumbnail: images/image.png
-summary: Woo Dak San was a Chinese American immigrant whose 1925 murder case gained national attention and exposed media exaggeration and anti-Chinese legal bias. 
+summary: Woo Dak San was a Chinese American immigrant whose 1925 murder case gained national attention and exposed media exaggeration and anti-Chinese legal bias.
 ---
 
 # Woo Dak San
 
 In 1925 in Silver City, a Chinese American immigrant named Woo Dak San was arrested for the murder of a Chinese merchant accused of selling opium. Another suspect was briefly arrested but later cleared. Woo was first sentenced to death by hanging, then—after an appeal and support from the local Chinese community—his sentence was changed to execution by electric chair. While imprisoned, he was offered a chance at release if he agreed to be used for scientific experimentation. His case gained national attention, appearing in local newspapers and even Time magazine. This case is significant to AAPI and New Mexico history because it reveals the harsh treatment, legal inequalities, and public fascination faced by Chinese immigrants, especially in cases shaped by fear, bias, and exaggeration. 
 
-## Subheader 1
+## Why the Woo Dak San Case Became a National Story
 
 150-200 words:  Explain why this event was newsworthy, drawing upon specific language or descriptions in the primary sources as citing any secondary sources to support your interpretation about why this event was newsworthy at the time it took place.[^youchoose] 
 
@@ -19,7 +19,7 @@ In 1925 in Silver City, a Chinese American immigrant named Woo Dak San was arres
 
 
 {% include images/figure-wrap.html
-  image-path="images/Raton_let_the_boycotters_kill_them.jpg"
+  image-path="images/sub 2.png"
   image-position="right"
   image-width="50%"
   caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese.[Source: Sierra County Advocate January 23, 1886, 2.] "
