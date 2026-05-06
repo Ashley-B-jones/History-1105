@@ -23,10 +23,9 @@ The murder case connected to Woo Dak San became a nationwide story. It was prese
   image-path="images/racial sub 1.png"
   image-position="right"
   image-width="50%"
-  caption="Perpetrators of Foul Deed Leave Kinfe Sticking in Dead Man's Temple; Robbery Belived Motive.[Source: The Silver City Enterprise August 28th 1925.] "
+  caption="Perpetrators of Foul Deed Leave Kinfe Sticking in Dead Man's Temple; Robbery Belived Motive. [Source:The Silver City Enterprise August 28th 1925.] "
 %}
 
-{% include typography/pullquote.html text="\"It is a shame for the people of Raton to 'protect' the Chinese. They ought to stand aside and let the boycotters kill them...\""%}
 
 The case gained popularity for the initial brutal crime that later stayed in newspapers nationwide because of its unusual legal developments, including a change in sentencing from hanging to execution by electric chair after an appeal, which extended public attention. The structure and language of the article reinforce racialized fear and stereotyping, which helped make this case—and others like it—especially newsworthy. Crimes involving Chinese immigrants were often presented in explicitly racialized ways and given heightened coverage, reflecting broader anti-Asian bias in American society at the time.
 [^youchoose2] 
