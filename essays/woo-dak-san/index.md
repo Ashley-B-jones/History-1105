@@ -32,12 +32,12 @@ The case gained popularity for the initial brutal crime that later stayed in new
 
 [^youchoose2]:Another-author-first-name Another-author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
-## Subheader 2
+## Legal Injustice and Community Resistance in the Woo Dak San Case
 
-Here's why this event relates to Asian American and Pacific Islander (AAPI) history: Insert your text that explains how this specific event relates to to the history of the ethnic group AND AAPI history. 100-150 words 
+The case of Woo Dak San highlights the broader struggles faced by Chinese immigrants in the United States during the early 20th century. Even after his arrest, his case gained national attention in newspapers, which emphasized his identity and reinforced stereotypes tied to opium use and criminality during his trials. This sensationalism shaped public perception before and during legal proceedings, where he faced inconsistent and unequal treatment. His trial resulted in an early death sentence, marking one of the first highly publicized cases of a Chinese immigrant facing execution in New Mexico. 
 
 {% capture Removal_Chinese_text %}
-The coding for this section positions this text in relation to the image. *The Las Vegas Gazette* expressed confidence that the town of Raton  succesfully would remove Chinese settlers without the Knights of Labor committing acts of violence.  
+Despite strong anti-Asian sentiment, divisions among jurors over capital punishment complicated the outcome. At the same time, support from the Chinese community during his appeal demonstrates collective resistance, reflecting broader AAPI efforts to challenge discrimination and injustice, marking a small leap and turning point for Asian communities in New Mexico.  
 {% endcapture %}
 
 {% include images/figure-wrap.html
