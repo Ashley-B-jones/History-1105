@@ -32,7 +32,7 @@ The case gained popularity for the initial brutal crime that later stayed in new
 
 [^youchoose2]:Another-author-first-name Another-author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
-## Legal Injustice and Community Resistance in the Woo Dak San Case
+## Legal Injustice and Community Resistance in the Woo                                               Dak San Case
 
 The case of Woo Dak San highlights the broader struggles faced by Chinese immigrants in the United States during the early 20th century. Even after his arrest, his case gained national attention in newspapers, which emphasized his identity and reinforced stereotypes tied to opium use and criminality during his trials. This sensationalism shaped public perception before and during legal proceedings, where he faced inconsistent and unequal treatment. His trial resulted in an early death sentence, marking one of the first highly publicized cases of a Chinese immigrant facing execution in New Mexico. 
 
@@ -41,9 +41,9 @@ Despite strong anti-Asian sentiment, divisions among jurors over capital punishm
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/Concerns_Raton.jpg"
+  image-path="images/sub 2.png"
   image-position="left"
-  image-width="70%"
+  image-width="60%"
   caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette (Month day, year, page number.)] (web page link)"
   text=Removal_Chinese_text 
 %}
