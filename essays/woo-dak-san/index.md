@@ -53,7 +53,7 @@ Despite strong anti-Asian sentiment, divisions among jurors over capital punishm
 The case of Woo Dak San also reveals important aspects of New Mexico’s local history, particularly how justice and community influence operated in Silver City during the 1920s. While the legal system initially imposed a harsh sentence, the involvement and advocacy of the local community played a role in bringing attention to the case and pushing for reconsideration. This suggests that, even within a system shaped by bias, immigrant communities in New Mexico were not entirely powerless and could organize to challenge legal outcomes. Compared to other regions where Chinese immigrants had even fewer avenues for appeal, Silver City shows a more complex dynamic in which local voices could still have some impact.  
 
 {% include images/figure-wrap.html
-  image-path="images/Chinese_leave_Raton.jpg"
+  image-path="images/image copy.png"
   image-position="center"
   image-width="70%"
   caption="Insert your caption for Image C here. At least a few Chinese settlers left not only Raton but the state of New Mexico in response to pressure from the Knights of Labor. [Source: Las Vegas Gazette] (December 13, 1882, 4.)"
@@ -66,8 +66,8 @@ The case of Woo Dak San also reveals important aspects of New Mexico’s local h
 
 At the same time, the continued use of the death penalty—and the shift from hanging to electrocution—demonstrates how New Mexico participated in broader national trends of punishment while still enforcing severe consequences. The willingness to carry out capital punishment, along with the reported consideration of using Woo for scientific experimentation, reflects a justice system that could be both modernizing and deeply unequal. Together, these elements show that New Mexico was not isolated from national patterns of racial bias and harsh legal practices, but instead mirrored and reinforced them at the local level.
 
-## Concluding Subheader 4:
+## Conclusion: Justice, Bias, and Ethical Questions in the Woo Dak San Case
 
-Insert your text here.  Why is this event historically signficant?  What does it teach us? What further research questions does it raise? 
-
-**Further information:** You may highlight key sources that provide more information for readers. This is where you also may provide links to other websites that relate to the topic. Be sure to explain why these links might be of interest to the reader in relation to your topic. 
+The case of Woo Dak San is historically significant because it exposes how race, media influence, and the legal system intersected to shape justice for Chinese immigrants in the early twentieth century. It shows that legal outcomes were not based solely on evidence, but were also influenced by public perception, racial bias, and fear. At the same time, the support Woo received from the local Chinese community demonstrates that marginalized groups could organize and push back against injustice, even in a discriminatory environment. One of the most striking aspects of the case is the reported offer that Woo could avoid execution by agreeing to be used for scientific experimentation. This raises serious ethical questions about how prisoners—especially those from marginalized backgrounds—were treated and whether their lives were seen as expendable in the name of science.
+This event teaches us that systems of justice have historically treated different groups unequally, and that media narratives can reinforce harmful stereotypes. It also highlights the importance of community advocacy in challenging injustice. Further research questions include: How common were offers of scientific experimentation in place of execution? How did other Chinese immigrants in New Mexico experience the legal system during this time? And how did national attitudes toward Chinese Americans influence local cases like this one? Readers interested in learning more could explore historical studies on Chinese exclusion laws, early twentieth-century criminal justice practices, and the ethics of human experimentation, all of which provide broader context for understanding this case and its significance.
+ 
