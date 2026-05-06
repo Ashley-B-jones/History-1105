@@ -48,9 +48,9 @@ Despite strong anti-Asian sentiment, divisions among jurors over capital punishm
   text=Removal_Chinese_text 
 %}
 
-## Subheader 3 
+## Justice, Community Influence, and the Death Penalty in 1920s New Mexico 
 
-Use this section to explain how this event relates to New Mexico history. What does this event tell us about New Mexico (or the specific city) in relation to other territories, states, or local communities? 
+The case of Woo Dak San also reveals important aspects of New Mexico’s local history, particularly how justice and community influence operated in Silver City during the 1920s. While the legal system initially imposed a harsh sentence, the involvement and advocacy of the local community played a role in bringing attention to the case and pushing for reconsideration. This suggests that, even within a system shaped by bias, immigrant communities in New Mexico were not entirely powerless and could organize to challenge legal outcomes. Compared to other regions where Chinese immigrants had even fewer avenues for appeal, Silver City shows a more complex dynamic in which local voices could still have some impact.  
 
 {% include images/figure-wrap.html
   image-path="images/Chinese_leave_Raton.jpg"
@@ -62,9 +62,9 @@ Use this section to explain how this event relates to New Mexico history. What d
 
 
 
-{% include typography/pullquote.html text="\"The most important thing about tamales isn't the recipe. It's the hands that made them. Whose recipe? Whose tradition? Whose labor? These are the questions that matter.\"" %}
+{% include typography/pullquote.html text="\"The sub-genre plays a crucial political role as witness literature that reveals state violence, its organization, and propagation of public fear.\"" %}
 
-If you inserted a direct quote, you may complete the rest of your text for section 3 here. 
+At the same time, the continued use of the death penalty—and the shift from hanging to electrocution—demonstrates how New Mexico participated in broader national trends of punishment while still enforcing severe consequences. The willingness to carry out capital punishment, along with the reported consideration of using Woo for scientific experimentation, reflects a justice system that could be both modernizing and deeply unequal. Together, these elements show that New Mexico was not isolated from national patterns of racial bias and harsh legal practices, but instead mirrored and reinforced them at the local level.
 
 ## Concluding Subheader 4:
 
