@@ -23,14 +23,12 @@ The murder case connected to Woo Dak San became a nationwide story. It was prese
   image-path="images/racial sub 1.png"
   image-position="right"
   image-width="50%"
-  caption="Perpetrators of Foul Deed Leave Kinfe Sticking in Dead Man's Temple; Robbery Belived Motive. [Source:The Silver City Enterprise August 28th 1925.] "
+  caption="Perpetrators of Foul Deed Leave Kinfe Sticking in Dead Man's Temple; Robbery Belived Motive. [Source:The Silver City Enterprise] (August 28th 1925.) "
 %}
 
 
 The case gained popularity for the initial brutal crime that later stayed in newspapers nationwide because of its unusual legal developments, including a change in sentencing from hanging to execution by electric chair after an appeal, which extended public attention. The structure and language of the article reinforce racialized fear and stereotyping, which helped make this case—and others like it—especially newsworthy. Crimes involving Chinese immigrants were often presented in explicitly racialized ways and given heightened coverage, reflecting broader anti-Asian bias in American society at the time.
-[^youchoose2] 
 
-[^youchoose2]:Another-author-first-name Another-author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
 ## Legal Injustice and Community Resistance in the Woo Dak San Case
 
@@ -44,7 +42,7 @@ Despite strong anti-Asian sentiment, divisions among jurors over capital punishm
   image-path="images/sub 2.png"
   image-position="left"
   image-width="60%"
-  caption="Juryman Disqualifies Himself; New Trial for Woo Dak San.[Source: The Silver City Enterprise September 18th 1925)"
+  caption="Juryman Disqualifies Himself; New Trial for Woo Dak San.[Source: The Silver City Enterprise] (September 18th 1925)"
   text=Removal_Chinese_text 
 %}
 
@@ -56,7 +54,7 @@ The case of Woo Dak San also reveals important aspects of New Mexico’s local h
   image-path="images/image copy.png"
   image-position="center"
   image-width="70%"
-  caption="Insert your caption for Image C here. At least a few Chinese settlers left not only Raton but the state of New Mexico in response to pressure from the Knights of Labor. [Source: Las Vegas Gazette] (December 13, 1882, 4.)"
+  caption="Woo Dak San is Granted Rehearing on Write of Error. [Source: The Silver City Enterprise] (November 7th 1930)"
   text=Chinese_leave_Raton_text 
 %}
 
@@ -68,6 +66,5 @@ At the same time, the continued use of the death penalty—and the shift from ha
 
 ## Conclusion: Justice, Bias, and Ethical Questions in the Woo Dak San Case
 
-The case of Woo Dak San is historically significant because it exposes how race, media influence, and the legal system intersected to shape justice for Chinese immigrants in the early twentieth century. It shows that legal outcomes were not based solely on evidence, but were also influenced by public perception, racial bias, and fear. At the same time, the support Woo received from the local Chinese community demonstrates that marginalized groups could organize and push back against injustice, even in a discriminatory environment. One of the most striking aspects of the case is the reported offer that Woo could avoid execution by agreeing to be used for scientific experimentation. This raises serious ethical questions about how prisoners—especially those from marginalized backgrounds—were treated and whether their lives were seen as expendable in the name of science.
-This event teaches us that systems of justice have historically treated different groups unequally, and that media narratives can reinforce harmful stereotypes. It also highlights the importance of community advocacy in challenging injustice. Further research questions include: How common were offers of scientific experimentation in place of execution? How did other Chinese immigrants in New Mexico experience the legal system during this time? And how did national attitudes toward Chinese Americans influence local cases like this one? Readers interested in learning more could explore historical studies on Chinese exclusion laws, early twentieth-century criminal justice practices, and the ethics of human experimentation, all of which provide broader context for understanding this case and its significance.
+The case of Woo Dak San is historically significant because it exposes how race, media influence, and the legal system intersected to shape justice for Chinese immigrants in the early twentieth century. It shows that legal outcomes were not based solely on evidence, but were also influenced by public perception, racial bias, and fear. At the same time, the support Woo received from the local Chinese community demonstrates that marginalized groups could organize and push back against injustice, even in a discriminatory environment. One of the most striking aspects of the case is the reported offer that Woo could avoid execution by agreeing to be used for scientific experimentation. This raises serious ethical questions about how prisoners—especially those from marginalized backgrounds—were treated and whether their lives were seen as expendable in the name of science.This event teaches us that systems of justice have historically treated different groups unequally, and that media narratives can reinforce harmful stereotypes. It also highlights the importance of community advocacy in challenging injustice. F
  
