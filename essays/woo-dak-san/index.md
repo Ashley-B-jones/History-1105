@@ -23,7 +23,7 @@ The murder case connected to Woo Dak San became a nationwide story. It was prese
   image-path="images/racial sub 1.png"
   image-position="right"
   image-width="50%"
-  caption="Perpetrators of Foul Deed Leave Kinfe Sticking in Dead Man's Temple;Robbery Belived Motive.[Source: The Silver City Enterprise August 28th 1925.] "
+  caption="Perpetrators of Foul Deed Leave Kinfe Sticking in Dead Man's Temple; Robbery Belived Motive.[Source: The Silver City Enterprise August 28th 1925.] "
 %}
 
 {% include typography/pullquote.html text="\"It is a shame for the people of Raton to 'protect' the Chinese. They ought to stand aside and let the boycotters kill them...\""%}
