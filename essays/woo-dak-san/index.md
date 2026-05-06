@@ -43,7 +43,7 @@ Despite strong anti-Asian sentiment, divisions among jurors over capital punishm
 {% include images/figure-wrap.html
   image-path="images/sub 2.png"
   image-position="left"
-  image-width="%"
+  image-width="60%"
   caption="Juryman Disqualifies Himself; New Trial for Woo Dak San.[Source: The Silver City Enterprise September 18th 1925)"
   text=Removal_Chinese_text 
 %}
