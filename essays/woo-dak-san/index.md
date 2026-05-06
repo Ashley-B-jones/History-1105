@@ -13,7 +13,8 @@ In 1925 in Silver City, a Chinese American immigrant named Woo Dak San was arres
 
 ## Racial Bias and Exaggeration in News Coverage
 
-150-200 words:  Explain why this event was newsworthy, drawing upon specific language or descriptions in the primary sources as citing any secondary sources to support your interpretation about why this event was newsworthy at the time it took place.[^youchoose] 
+The murder case connected to Woo Dak San became a nationwide story. It was presented as a violent and unusual crime that drew attention through its graphic details and racial framing. Stories published in The Silver City Enterprise newspaper describes a “Chinese merchant” who was “found stabbed to death,” with a knife “sticking in [the] dead man’s temple.” This vivid language emphasized the brutality of the killing and made the story striking and memorable for readers. The article also suggested robbery as a possible motive, adding uncertainty and suspense that helped sustain interest in the case. In addition, repeated references to the victim as Chinese and mentions of Mexican suspects show how race shaped the way the crime was reported and understood, making it more than just a routine murder story.
+[^youchoose] 
 
 [^youchoose]:Author-first-name Author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
@@ -22,12 +23,13 @@ In 1925 in Silver City, a Chinese American immigrant named Woo Dak San was arres
   image-path="images/racial sub 1.png"
   image-position="right"
   image-width="50%"
-  caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese.[Source: Sierra County Advocate January 23, 1886, 2.] "
+  caption="Perpetrators of Foul Deed Leave Kinfe Sticking in Dead Man's Temple;Robbery Belived Motive.[Source: The Silver City Enterprise August 28th 1925.] "
 %}
 
 {% include typography/pullquote.html text="\"It is a shame for the people of Raton to 'protect' the Chinese. They ought to stand aside and let the boycotters kill them...\""%}
 
-You may divide your text by inserting a pull from a primary or secondary source here that highlights why this event is newsworthy, as noted with the highlighted quote from the newspaper image. If you do not wish to break up your text with a direct quote you can delete the pull quote.[^youchoose2] 
+The case gained popularity for the initial brutal crime that later stayed in newspapers nationwide because of its unusual legal developments, including a change in sentencing from hanging to execution by electric chair after an appeal, which extended public attention. The structure and language of the article reinforce racialized fear and stereotyping, which helped make this case—and others like it—especially newsworthy. Crimes involving Chinese immigrants were often presented in explicitly racialized ways and given heightened coverage, reflecting broader anti-Asian bias in American society at the time.
+[^youchoose2] 
 
 [^youchoose2]:Another-author-first-name Another-author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
