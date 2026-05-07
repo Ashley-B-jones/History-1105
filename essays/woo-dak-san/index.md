@@ -14,9 +14,6 @@ In 1925 in Silver City, a Chinese American immigrant named Woo Dak San was arres
 ## Racial Bias and Exaggeration in News Coverage
 
 The murder case connected to Woo Dak San became a nationwide story. It was presented as a violent and unusual crime that drew attention through its graphic details and racial framing. Stories published in The Silver City Enterprise newspaper describes a “Chinese merchant” who was “found stabbed to death,” with a knife “sticking in [the] dead man’s temple.” This vivid language emphasized the brutality of the killing and made the story striking and memorable for readers. The article also suggested robbery as a possible motive, adding uncertainty and suspense that helped sustain interest in the case. In addition, repeated references to the victim as Chinese and mentions of Mexican suspects show how race shaped the way the crime was reported and understood, making it more than just a routine murder story.
-[^youchoose] 
-
-[^youchoose]:Author-first-name Author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
 
 {% include images/figure-wrap.html
