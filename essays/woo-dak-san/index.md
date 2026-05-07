@@ -48,7 +48,10 @@ Despite strong anti-Asian sentiment, divisions among jurors over capital punishm
 
 ## Justice, Community Influence, and the Death Penalty in 1920s New Mexico 
 
-The case of Woo Dak San also reveals important aspects of New Mexico’s local history, particularly how justice and community influence operated in Silver City during the 1920s. While the legal system initially imposed a harsh sentence, the involvement and advocacy of the local community played a role in bringing attention to the case and pushing for reconsideration. This suggests that, even within a system shaped by bias, immigrant communities in New Mexico were not entirely powerless and could organize to challenge legal outcomes. Compared to other regions where Chinese immigrants had even fewer avenues for appeal, Silver City shows a more complex dynamic in which local voices could still have some impact.  
+The case of Woo Dak San also reveals important aspects of New Mexico’s local history, particularly how justice and community influence operated in Silver City during the 1920s. While the legal system initially imposed a harsh sentence, the involvement and advocacy of the local community played a role in bringing attention to the case and pushing for reconsideration. This suggests that, even within a system shaped by bias, immigrant communities in New Mexico were not entirely powerless and could organize to challenge legal outcomes. Compared to other regions where Chinese immigrants had even fewer avenues for appeal, Silver City shows a more complex dynamic in which local voices could still have some impact.
+[^youchoose] 
+
+[^youchoose]:Joe Lockard, *"US death row literature and public mobilization against capital punishment.” Arizona Quarterly: A Journal of American Literature, Culture, and Theory* (Johns Hopkins University:2024), 61.  
 
 {% include images/figure-wrap.html
   image-path="images/image copy.png"
@@ -60,7 +63,7 @@ The case of Woo Dak San also reveals important aspects of New Mexico’s local h
 
 
 
-{% include typography/pullquote.html text="\"The death penalty functions as a crucial symbolic spearhead for political forces that seek to make incarceration more potent, intimidating, and fearsome.(Lockard 61)\"" %}
+{% include typography/pullquote.html text="\"The death penalty functions as a crucial symbolic spearhead for political forces that seek to make incarceration more potent, intimidating, and fearsome.\"" %}
 
 At the same time, the continued use of the death penalty—and the shift from hanging to electrocution—demonstrates how New Mexico participated in broader national trends of punishment while still enforcing severe consequences. The willingness to carry out capital punishment, along with the reported consideration of using Woo for scientific experimentation, reflects a justice system that could be both modernizing and deeply unequal. Together, these elements show that New Mexico was not isolated from national patterns of racial bias and harsh legal practices, but instead mirrored and reinforced them at the local level.
 
